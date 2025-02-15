@@ -1,6 +1,6 @@
 # Calculadora-Modulo
 
-Este proyecto es una calculadora con modulos desarrollada en HTML y  varios arvhivos de JavaScript. Permite realizar operaciones matemáticas como suma, resta, multiplicación y división mediante una interfaz basada en prompts.
+Este proyecto es una calculadora con modulos desarrollada en HTML y  varios archivos de JavaScript. Permite realizar operaciones matemáticas como suma, resta, multiplicación y división mediante una interfaz basada en prompts.
 
 #Cómo ejecutar el proyecto
 
